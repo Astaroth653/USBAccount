@@ -1,0 +1,128 @@
+Comment utiliser USBAccount
+
+1.1 mettre le fichire tokent (.dat) dans votre clé usb
+1.2 en tant qu'admin faistait la commande net user User /add
+2A1. le service : moidfier le bat en specifiant le chemmin d'accès de USBAccountService.exe et lancez le en tant que admin
+2A2.lancez le bat en tant qu'ADMINISTRATEUR
+2A3. lancez tray.exe 
+2A4 branchez votre cléusb
+2B1 executaez le seul executable en tant qu'dmin 
+2B2 metter la clé usb 
+
+How to use USBAccount
+
+1.1 Put the token file (.dat) on your USB drive
+1.2 As admin, run the command: net user User /add
+2A1. The service: modify the .bat by specifying the path to USBAccountService.exe, then run it as administrator
+2A2. Run the .bat as ADMINISTRATOR
+2A3. Launch tray.exe
+2A4. Plug in your USB drive
+2B1. Run the only executable as admin
+2B2. Insert the USB drive
+
+
+🇪🇸 Español
+
+Cómo usar USBAccount
+
+1.1 Coloca el archivo token (.dat) en tu memoria USB
+1.2 Como administrador, ejecuta el comando: net user User /add
+2A1. El servicio: modifica el .bat especificando la ruta de USBAccountService.exe y ejecútalo como administrador
+2A2. Ejecuta el .bat como ADMINISTRADOR
+2A3. Ejecuta tray.exe
+2A4. Conecta tu USB
+2B1. Ejecuta el único ejecutable como administrador
+2B2. Inserta la memoria USB
+
+🇩🇪 Deutsch
+
+So verwenden Sie USBAccount
+
+1.1 Die Token-Datei (.dat) auf Ihren USB-Stick kopieren
+1.2 Als Administrator den Befehl ausführen: net user User /add
+2A1. Der Dienst: Bearbeiten Sie die .bat und geben Sie den Pfad zu USBAccountService.exe an. Führen Sie sie als Admin aus
+2A2. Führen Sie die .bat als ADMINISTRATOR aus
+2A3. Starten Sie tray.exe
+2A4. Stecken Sie Ihren USB-Stick ein
+2B1. Führen Sie die einzige ausführbare Datei als Admin aus
+2B2. USB-Stick einstecken
+
+🇮🇹 Italiano
+
+Come usare USBAccount
+
+1.1 Metti il file token (.dat) sulla tua chiavetta USB
+1.2 Come amministratore, esegui il comando: net user User /add
+2A1. Il servizio: modifica il file .bat specificando il percorso di USBAccountService.exe, ed eseguilo come admin
+2A2. Esegui il .bat come AMMINISTRATORE
+2A3. Avvia tray.exe
+2A4. Collega la chiavetta USB
+2B1. Esegui l’unico eseguibile come admin
+2B2. Inserisci la chiavetta USB
+
+🇵🇹 Português
+
+Como usar o USBAccount
+
+1.1 Coloque o arquivo token (.dat) no seu pendrive
+1.2 Como administrador, execute o comando: net user User /add
+2A1. O serviço: edite o .bat especificando o caminho do USBAccountService.exe e execute como administrador
+2A2. Execute o .bat como ADMINISTRADOR
+2A3. Inicie tray.exe
+2A4. Conecte seu pendrive
+2B1. Execute o único executável como admin
+2B2. Insira o pendrive
+
+🇳🇱 Nederlands
+
+Hoe gebruik je USBAccount
+
+1.1 Zet het tokenbestand (.dat) op je USB-stick
+1.2 Voer als beheerder het commando uit: net user User /add
+2A1. De service: bewerk de .bat en geef het pad naar USBAccountService.exe op, voer het uit als administrator
+2A2. Voer de .bat uit als ADMINISTRATOR
+2A3. Start tray.exe
+2A4. Steek je USB-stick in
+2B1. Voer het enige uitvoerbare bestand uit als administrator
+2B2. Steek de USB-stick in
+
+🇷🇺 Русский
+
+Как использовать USBAccount
+
+1.1 Поместите файл токена (.dat) на USB-накопитель
+1.2 От имени администратора выполните команду: net user User /add
+2A1. Сервис: измените .bat, указав путь к USBAccountService.exe, и запустите от имени администратора
+2A2. Запустите .bat как АДМИНИСТРАТОР
+2A3. Запустите tray.exe
+2A4. Подключите USB
+2B1. Запустите единственный исполняемый файл от имени администратора
+2B2. Вставьте USB
+
+🇨🇳 简体中文
+
+如何使用 USBAccount
+
+1.1 将 token 文件（.dat）放入你的 USB 闪存盘中
+1.2 以管理员身份运行命令：net user User /add
+2A1. 服务：修改 .bat 文件，指定 USBAccountService.exe 的路径，并以管理员身份运行
+2A2. 以管理员身份运行 .bat 文件
+2A3. 启动 tray.exe
+2A4. 插入你的 USB
+2B1. 以管理员身份运行唯一的可执行文件
+2B2. 插入 USB
+
+🇯🇵 日本語
+
+USBAccount の使い方
+
+1.1 トークンファイル（.dat）をUSBに入れる
+1.2 管理者としてコマンドを実行：net user User /add
+2A1. サービス：USBAccountService.exe へのパスを指定して .bat を修正し、管理者として実行
+2A2. .bat を管理者として実行
+2A3. tray.exe を起動
+2A4. USB を接続
+2B1. 実行ファイルを管理者として起動
+2B2. USB を差し込む
+
+🇰🇷 한국어
